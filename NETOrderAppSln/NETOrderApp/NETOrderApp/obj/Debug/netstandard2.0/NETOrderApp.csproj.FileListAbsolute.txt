@@ -1,0 +1,15 @@
+C:\OrderingApp\NETOrderAppSln\NETOrderApp\NETOrderApp\bin\Debug\netstandard2.0\NETOrderApp.deps.json
+C:\OrderingApp\NETOrderAppSln\NETOrderApp\NETOrderApp\bin\Debug\netstandard2.0\NETOrderApp.dll
+C:\OrderingApp\NETOrderAppSln\NETOrderApp\NETOrderApp\bin\Debug\netstandard2.0\NETOrderApp.pdb
+C:\OrderingApp\NETOrderAppSln\NETOrderApp\NETOrderApp\obj\Debug\netstandard2.0\NETOrderApp.csproj.AssemblyReference.cache
+C:\OrderingApp\NETOrderAppSln\NETOrderApp\NETOrderApp\obj\Debug\netstandard2.0\NETOrderApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\OrderingApp\NETOrderAppSln\NETOrderApp\NETOrderApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\OrderingApp\NETOrderAppSln\NETOrderApp\NETOrderApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\OrderingApp\NETOrderAppSln\NETOrderApp\NETOrderApp\obj\Debug\netstandard2.0\NETOrderApp.AssemblyInfoInputs.cache
+C:\OrderingApp\NETOrderAppSln\NETOrderApp\NETOrderApp\obj\Debug\netstandard2.0\NETOrderApp.AssemblyInfo.cs
+C:\OrderingApp\NETOrderAppSln\NETOrderApp\NETOrderApp\obj\Debug\netstandard2.0\NETOrderApp.csproj.CoreCompileInputs.cache
+C:\OrderingApp\NETOrderAppSln\NETOrderApp\NETOrderApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\OrderingApp\NETOrderAppSln\NETOrderApp\NETOrderApp\obj\Debug\netstandard2.0\NETOrderApp.dll
+C:\OrderingApp\NETOrderAppSln\NETOrderApp\NETOrderApp\obj\Debug\netstandard2.0\refint\NETOrderApp.dll
+C:\OrderingApp\NETOrderAppSln\NETOrderApp\NETOrderApp\obj\Debug\netstandard2.0\NETOrderApp.pdb
+C:\OrderingApp\NETOrderAppSln\NETOrderApp\NETOrderApp\obj\Debug\netstandard2.0\ref\NETOrderApp.dll
