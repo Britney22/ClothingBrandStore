@@ -13,3 +13,16 @@ C:\OrderingApp\NETOrderAppSln\NETOrderApp\NETOrderApp\obj\Debug\netstandard2.0\N
 C:\OrderingApp\NETOrderAppSln\NETOrderApp\NETOrderApp\obj\Debug\netstandard2.0\refint\NETOrderApp.dll
 C:\OrderingApp\NETOrderAppSln\NETOrderApp\NETOrderApp\obj\Debug\netstandard2.0\NETOrderApp.pdb
 C:\OrderingApp\NETOrderAppSln\NETOrderApp\NETOrderApp\obj\Debug\netstandard2.0\ref\NETOrderApp.dll
+C:\OrderingApp\ClothingBrandStore\NETOrderAppSln\NETOrderApp\NETOrderApp\obj\Debug\netstandard2.0\NETOrderApp.csproj.AssemblyReference.cache
+C:\OrderingApp\ClothingBrandStore\NETOrderAppSln\NETOrderApp\NETOrderApp\obj\Debug\netstandard2.0\NETOrderApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\OrderingApp\ClothingBrandStore\NETOrderAppSln\NETOrderApp\NETOrderApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\OrderingApp\ClothingBrandStore\NETOrderAppSln\NETOrderApp\NETOrderApp\obj\Debug\netstandard2.0\Views\OrderItems.xaml.g.cs
+C:\OrderingApp\ClothingBrandStore\NETOrderAppSln\NETOrderApp\NETOrderApp\obj\Debug\netstandard2.0\Views\OrderList.xaml.g.cs
+C:\OrderingApp\ClothingBrandStore\NETOrderAppSln\NETOrderApp\NETOrderApp\obj\Debug\netstandard2.0\NETOrderApp.AssemblyInfoInputs.cache
+C:\OrderingApp\ClothingBrandStore\NETOrderAppSln\NETOrderApp\NETOrderApp\obj\Debug\netstandard2.0\NETOrderApp.AssemblyInfo.cs
+C:\OrderingApp\ClothingBrandStore\NETOrderAppSln\NETOrderApp\NETOrderApp\obj\Debug\netstandard2.0\NETOrderApp.csproj.CoreCompileInputs.cache
+C:\OrderingApp\ClothingBrandStore\NETOrderAppSln\NETOrderApp\NETOrderApp\obj\Debug\netstandard2.0\NETOrderApp.dll
+C:\OrderingApp\ClothingBrandStore\NETOrderAppSln\NETOrderApp\NETOrderApp\obj\Debug\netstandard2.0\refint\NETOrderApp.dll
+C:\OrderingApp\ClothingBrandStore\NETOrderAppSln\NETOrderApp\NETOrderApp\obj\Debug\netstandard2.0\NETOrderApp.pdb
+C:\OrderingApp\ClothingBrandStore\NETOrderAppSln\NETOrderApp\NETOrderApp\obj\Debug\netstandard2.0\Views\OrderItemPage.xaml.g.cs
+C:\OrderingApp\ClothingBrandStore\NETOrderAppSln\NETOrderApp\NETOrderApp\obj\Debug\netstandard2.0\Mainpage.xaml.g.cs

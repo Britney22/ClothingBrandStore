@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NETOrderApp.Views.OrderItemPage">
+    
+        <StackLayout Margin="20"
+                 VerticalOptions="StartAndExpand">
+            <Label Text="Name" />
+            <Entry Text="{Binding Name}" />    
+            <Label Text="Gender" />
+            <Entry Text="{Binding Gender}" />
+            <Label Text="T-Shirt" />
+            <Entry Text="{Binding T-Shirt}" />
+            <Label Text="Date of Order" />
+            <Entry Text="{Binding DateofOrder}" />
+            <Label Text="T-Shirt Color" />
+            <Entry Text="{Binding T-ShirtColor }" />
+            <Label Text="ShippingAddress" />
+            <Entry Text="{Binding  ShippingAddress}" />
+            <Label Text="Done" />
+            <Switch IsToggled="{Binding Done}" />
+            <Button Text="Save"
+                Clicked="OnSaveClicked" />
+            <Button Text="Delete"
+                Clicked="OnDeleteClicked" />
+            <Button Text="Cancel"
+                Clicked="OnCancelClicked" />
+        </StackLayout>
+    
+</ContentPage>

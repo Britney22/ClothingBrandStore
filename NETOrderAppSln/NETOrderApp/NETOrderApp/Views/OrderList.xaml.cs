@@ -1,4 +1,5 @@
-﻿using NETOrderApp.Data;
+﻿
+using OrderItems.Data;
 using OrderItems.Models;
 using System;
 using System.Collections.Generic;
@@ -14,7 +15,8 @@ namespace NETOrderApp.Views
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class OrderList : ContentPage
     {
-        private object listView;
+        
+        public List<OrderItem> Items { get; set; }
 
         public OrderList()
         {
@@ -25,7 +27,9 @@ namespace NETOrderApp.Views
             base.OnAppearing();
 
             OrderItemDatabase database = await OrderItemDatabase.Instance;
-            listView.ItemsSource = await database.GetItemsAsync();
+            Items = await database.GetItemsAsync();
+
+            BindingContext = this;
         }
 
         async void OnOrderAdded(object sender, EventArgs e)
@@ -38,13 +42,13 @@ namespace NETOrderApp.Views
 
         async void OnListOrderSelected(object sender, SelectedItemChangedEventArgs e)
         {
-            if (e.SelectedOrder != null)
+           /* if (e.SelectedOrder != null)
             {
                 await Navigation.PushAsync(new OrderItemPage
                 {
                     BindingContext = e.SelectedOrder as OrderItem
                 });
-            }
+            }*/
         }
     }
 }

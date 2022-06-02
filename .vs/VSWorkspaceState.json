@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\NETOrderAppSln",
+    "\\NETOrderAppSln\\NETOrderApp",
+    "\\NETOrderAppSln\\NETOrderApp\\NETOrderApp",
+    "\\NETOrderAppSln\\NETOrderApp\\NETOrderApp\\Views"
   ],
+  "SelectedNode": "\\NETOrderAppSln\\NETOrderApp\\NETOrderApp\\Views\\OrderList.xaml",
   "PreviewInSolutionExplorer": false
 }

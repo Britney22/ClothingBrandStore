@@ -10,7 +10,7 @@ namespace NETOrderApp
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new Mainpage();
         }
 
         protected override void OnStart()

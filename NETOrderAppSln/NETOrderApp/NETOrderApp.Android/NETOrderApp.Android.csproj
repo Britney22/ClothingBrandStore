@@ -83,7 +83,9 @@
     <AndroidResource Include="Resources\mipmap-xxxhdpi\icon.png" />
     <AndroidResource Include="Resources\mipmap-xxxhdpi\launcher_foreground.png" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\SWAG.png" />
+  </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\NETOrderApp\NETOrderApp.csproj">
       <Project>{C2741A38-7B4A-4BDF-B4CE-8D97AA60955E}</Project>

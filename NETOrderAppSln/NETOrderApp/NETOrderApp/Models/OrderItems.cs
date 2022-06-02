@@ -1,4 +1,9 @@
-﻿namespace OrderItems.Models
+﻿using System;
+using NETOrderApp;
+using SQLite;
+    
+    
+    namespace OrderItems.Models
 {
     public class OrderItem
     {
@@ -8,4 +13,6 @@
         public string Notes { get; set; }
         public bool Done { get; set; }
     }
+
+   
 }
